@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.fiap</groupId>
-	<artifactId>global-solution</artifactId>
+	<artifactId>Challenge-sprint3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>global-solution</name>
+	<name>Challenge-sprint3</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
